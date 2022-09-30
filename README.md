@@ -15,4 +15,4 @@ Can also use multiple algorithms
 
 # Technology Used
 ![download](https://user-images.githubusercontent.com/114747209/193284481-d5a44796-e40a-4691-8ba5-eb49073d7672.png)
-![download](https://user-images.githubusercontent.com/114747209/193284582-ec6713b4-e948-49d7-b441-c06c68aa7d81.jpg)
+![download](https://user-images.githubusercontent.com/114747209/193285056-a919ddd3-423c-4fcb-9708-12c1a85f52d3.png)
